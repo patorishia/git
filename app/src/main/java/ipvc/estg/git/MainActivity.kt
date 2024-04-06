@@ -44,4 +44,5 @@ fun GreetingPreview() {
         Greeting("Android")
     }
 }
-//new metodo A
+//novo metodo A
+//novo método B

@@ -47,3 +47,5 @@ fun GreetingPreview() {
 //novo metodo A
 
 //novo método B
+
+//novo metodo C

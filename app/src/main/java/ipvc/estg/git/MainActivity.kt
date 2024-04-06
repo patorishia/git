@@ -45,4 +45,5 @@ fun GreetingPreview() {
     }
 }
 //novo metodo A
+
 //novo método B

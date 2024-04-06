@@ -47,5 +47,3 @@ fun GreetingPreview() {
 //novo metodo A
 
 //novo método B
-
-//testes de funcionalidade A
